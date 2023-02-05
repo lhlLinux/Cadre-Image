@@ -1,0 +1,9 @@
+
+# config.yaml
+
+# fichier de configuration
+
+wakeup: '8:30'            # heure de reveil
+close: '20:30'            # heure d'entree en veille
+period: '00:00:05'        # periode d'affichage
+path: 'Albums'  # pour Raspbian
